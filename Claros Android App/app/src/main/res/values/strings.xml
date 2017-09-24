@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Claros</string>
+    <string name="food_calorie_estimator_using_machine_learning">Food Calorie Estimator using Machine Learning</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="submit">Estimate</string>
+    <string name="image">image</string>
+    <string name="janyani">Response</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
